@@ -1,0 +1,47 @@
+
+header {
+    width: 100%;
+    background-color: #0084FD;
+}
+
+#logo-header{
+    width : 70px ;
+}
+
+#hamburger-menu{
+    color: white;
+}
+
+#icon-cards {
+    width: 200px;
+    height: 200px;
+}
+
+#img-phone {
+    width: 100%;
+}
+
+.round-container {
+    width: 139px; 
+    height: 139px; 
+    border-radius: 50%;
+    overflow: hidden;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   }
+
+   .round-container .img-tablet {
+    width: 150%;
+    height: auto;
+    display: block;
+   }
+
+/* 
+#0084FD
+#B5DDFF
+#9792E4
+#FDC15F
+#333333 
+*/
